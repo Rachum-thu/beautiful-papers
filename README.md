@@ -1,4 +1,4 @@
-# beautiful-papers
+# Beautiful Papers
 A collection of papers with beautiful visualization.
 
 ## [Beyond Surface Reasoning: Unveiling the True Long Chain-of-Thought Capacity of Diffusion Large Language Models](https://arxiv.org/abs/2510.09544v1)
