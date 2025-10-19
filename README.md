@@ -33,6 +33,9 @@ A collection of papers with beautiful visualization.
 - **Point Plot with Classification**
 <img width="795" height="343" alt="Screenshot 2025-10-13 at 12 11 34" src="https://github.com/user-attachments/assets/7522c649-882c-4871-a053-e71d1daa70da" />
 
+- **Takeaways & header**
+<img width="692" height="513" alt="Screenshot 2025-10-19 at 08 59 47" src="https://github.com/user-attachments/assets/e4f52f91-e4f6-46b6-8556-f67a8a443e9a" />
+
 
 
 
