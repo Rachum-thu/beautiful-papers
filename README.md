@@ -37,5 +37,14 @@ A collection of papers with beautiful visualization.
 <img width="692" height="513" alt="Screenshot 2025-10-19 at 08 59 47" src="https://github.com/user-attachments/assets/e4f52f91-e4f6-46b6-8556-f67a8a443e9a" />
 
 
+## [NBDiff](https://arxiv.org/abs/2512.06776v1)
+
+- **Transformer IO**
+<img width="638" height="621" alt="Screenshot 2025-12-14 at 12 50 28" src="https://github.com/user-attachments/assets/43499054-f2bf-4487-a1a4-4eaca4baff69" />
+
+- **Token List**
+<img width="647" height="228" alt="Screenshot 2025-12-14 at 12 50 34" src="https://github.com/user-attachments/assets/180ab575-0093-419e-88f9-8d7887f19fb8" />
+
+
 
 
