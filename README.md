@@ -45,6 +45,21 @@ A collection of papers with beautiful visualization.
 - **Token List**
 <img width="647" height="228" alt="Screenshot 2025-12-14 at 12 50 34" src="https://github.com/user-attachments/assets/180ab575-0093-419e-88f9-8d7887f19fb8" />
 
+## [Steer2Adapt](https://arxiv.org/pdf/2602.07276)
+
+- **Stages**
+<img width="781" height="379" alt="a70391d021c967a60725b8bf2ba2e8ac" src="https://github.com/user-attachments/assets/0c7f18ad-be4f-446c-8522-82b95ac1f1a4" />
+
+- **Dynamics**
+<img width="1051" height="424" alt="9ed08c1b0c156da600fe07b4995f62ac" src="https://github.com/user-attachments/assets/5ca41b17-3e84-46cb-bc93-5dfc47bedc5e" />
+
+## [PJ's 26 Neurips paper]
+
+- **Flow Chart**
+<img width="1153" height="849" alt="7a6b35e1816bbdb93f6c083dde5fa563" src="https://github.com/user-attachments/assets/0f505e0e-81f9-4482-b319-7f68be060c21" />
+
+
+
 
 
 
